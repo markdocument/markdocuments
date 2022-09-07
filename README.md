@@ -2,7 +2,7 @@
 MarkDocuments is a static site generator, for websites and content built using Markdown.
 
 ## Installing
-The same as Jekyll nuilding steps, here you go:
+The same as Jekyll building steps, here you go:
 
 1. Install all prerequisites.
 2. Install the jekyll and bundler gems.
