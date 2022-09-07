@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+: true
 
 module Jekyll
   # Handles the cleanup of a site's destination before it is built.

@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+: true
 
 module Jekyll
   # This class handles custom defaults for YAML frontmatter settings.

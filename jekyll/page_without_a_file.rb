@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+: true
 
 module Jekyll
   # A Jekyll::Page subclass to handle processing files without reading it to
