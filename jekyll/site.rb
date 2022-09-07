@@ -1,4 +1,4 @@
-: true
+
 
 module Jekyll
   class Site
@@ -377,7 +377,7 @@ module Jekyll
 
     # Whether to perform a full rebuild without incremental regeneration
     #
-    # Returns a Boolean: true for a full rebuild, false for normal build
+    # Returns a Boolean for a full rebuild, false for normal build
     def incremental?(override = {})
       override["incremental"] || config["incremental"]
     end

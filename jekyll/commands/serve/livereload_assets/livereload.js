@@ -403,8 +403,8 @@
       var _ref, _ref1;
       this.log("LiveReload received reload request: " + (JSON.stringify(message, null, 2)));
       return this.reloader.reload(message.path, {
-        liveCSS: (_ref = message.liveCSS) != null ? _ref : true,
-        liveImg: (_ref1 = message.liveImg) != null ? _ref1 : true,
+        liveCSS: (_ref = message.liveCSS) != null ? _ref ,
+        liveImg: (_ref1 = message.liveImg) != null ? _ref1 ,
         originalPath: message.originalPath || '',
         overrideURL: message.overrideURL || '',
         serverURL: "http://" + this.options.host + ":" + this.options.port
@@ -602,7 +602,7 @@
           return this.handlers.message({
             command: 'reload',
             path: options.path,
-            liveCSS: (_ref = options.apply_css_live) != null ? _ref : true
+            liveCSS: (_ref = options.apply_css_live) != null ? _ref 
           });
         } else {
           message = this._parseMessage(data, ['reload', 'alert']);

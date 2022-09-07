@@ -1,4 +1,4 @@
-: true
+
 
 module Kramdown
   module Parser

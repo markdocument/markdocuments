@@ -1,4 +1,4 @@
-: true
+
 
 module Jekyll
   # A singleton class that caches frozen instances of path strings returned from its methods.

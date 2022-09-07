@@ -1,4 +1,4 @@
-: true
+
 
 module Jekyll
   module Tags

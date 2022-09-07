@@ -1,4 +1,4 @@
-: true
+
 
 module Jekyll
   Generator = Class.new(Plugin)

@@ -1,4 +1,4 @@
-: true
+
 
 require_relative "liquid_renderer/file"
 require_relative "liquid_renderer/table"

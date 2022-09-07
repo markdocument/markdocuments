@@ -1,4 +1,4 @@
-: true
+
 
 module Jekyll
   class CollectionReader

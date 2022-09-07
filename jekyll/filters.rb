@@ -1,4 +1,4 @@
-: true
+
 
 require_all "jekyll/filters"
 
