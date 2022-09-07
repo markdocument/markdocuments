@@ -4,7 +4,7 @@ MarkDocuments is a static site generator, for websites and content built using M
 ## Installing
 The same as Jekyll building steps, here you go:
 
-1. Install all prerequisites.
+1. Install all prerequisites. [List](./docs/build-prerequisites.md)
 2. Install the jekyll and bundler gems.
 ```
 gem install jekyll bundler
