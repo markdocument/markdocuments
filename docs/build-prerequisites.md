@@ -8,4 +8,5 @@ GCC and Make
 
 See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for guides and details.
 
-*Sourced from https://jekyllrb.com/docs/#prerequisites*
+> **Note**
+> Sourced from https://jekyllrb.com/docs/#prerequisites
