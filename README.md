@@ -1,5 +1,5 @@
-# markdocuments
-MarkDocuments is a static site generator, for websites and content built using Markdown.
+# MarkdownDocs
+MarkdownDocs is a static site generator, for websites and content built using Markdown.
 
 ## Installing
 The same as Jekyll building steps, here you go:
