@@ -1,5 +1,5 @@
 # MarkdownDocs
-MarkdownDocs is a static site generator, for websites and content built using Markdown.
+MarkdownDocs is a static site generator, based on Jekyll's `lib`, for websites and content built using Markdown.
 
 ## Installing
 The same as Jekyll building steps, here you go:
