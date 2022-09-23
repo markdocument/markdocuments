@@ -2,7 +2,7 @@
 MarkdownDocs is a static site generator, based on Jekyll's `lib`, for websites and content built using Markdown.
 
 ## V2
-v2 is in progress at markdocument/markdowndocsV2
+v2 is in progress at markdocument/markdowndocsV2. Keep in mind that it is in BIG ALPHA.
 
 ## Installing
 The same as Jekyll building steps, here you go:
