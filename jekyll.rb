@@ -1,3 +1,13 @@
+require "jekyll/drops/drop"
+require "jekyll/drops/document_drop"
+require_all "jekyll/commands"
+require_all "jekyll/converters"
+require_all "jekyll/converters/markdown"
+require_all "jekyll/drops"
+require_all "jekyll/generators"
+require_all "jekyll/tags"
+
+require "jekyll-sass-converter"
 
 
 $LOAD_PATH.unshift __dir__ # For use/testing when no gem is installed
@@ -182,14 +192,3 @@ module Jekyll
     Jekyll::External.require_if_present("liquid/c")
   end
 end
-
-require "jekyll/drops/drop"
-require "jekyll/drops/document_drop"
-require_all "jekyll/commands"
-require_all "jekyll/converters"
-require_all "jekyll/converters/markdown"
-require_all "jekyll/drops"
-require_all "jekyll/generators"
-require_all "jekyll/tags"
-
-require "jekyll-sass-converter"
