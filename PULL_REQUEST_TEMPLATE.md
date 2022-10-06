@@ -2,8 +2,10 @@
 
 Please follow the Developer Certificate
 of Origin (DCO) file.
+
 https://github.com/markdowndocs/markdowndocs/blob/main/DCO
 Please follow our Code of Conduct.
+
 https://github.com/markdowndocs/markdowndocs/blob/main/CODE_OF_CONDUCT.md
 
 -->
