@@ -1,3 +1,4 @@
+# :lock: MarkdownDocs is sunsetting soon.
 # MarkdownDocs
 MarkdownDocs is a static site generator, based on Jekyll's `lib`, for websites and content built using Markdown.
 
